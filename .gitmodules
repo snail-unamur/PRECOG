@@ -1,0 +1,6 @@
+[submodule "vscode-pull-request-github"]
+	path = vscode-pull-request-github
+	url = https://github.com/snail-unamur/vscode-pull-request-github
+[submodule "analyse-pull-request-server"]
+	path = analyse-pull-request-server
+	url = https://github.com/snail-unamur/analyse-pull-request-server.git
